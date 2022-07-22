@@ -1,0 +1,20 @@
+{
+  "complementos": [
+    {
+      "id": 2,
+      "nome": "Batata Frita Grande",
+      "descricao": "",
+      "preco": 7.5,
+      "sku": "",
+      "produto_id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Batata Frita Média",
+      "descricao": "",
+      "preco": 7.5,
+      "sku": "",
+      "produto_id": 2
+    }
+  ]
+}
